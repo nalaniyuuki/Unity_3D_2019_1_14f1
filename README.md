@@ -15,4 +15,6 @@ None
 ### Project state:
 ### Limitations:
 ### Lessons Learned:
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+https://jbt.github.io/markdown-editor/
 Copyright by you
